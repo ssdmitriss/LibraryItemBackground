@@ -1,0 +1,1395 @@
+{
+    "folders": {
+        "main_folder": {
+            "categories": [
+				{
+                    "id": "32",
+                    "title": "Чек-лист по кибербезопасности"
+                },
+			    {
+                    "id": "25",
+                    "title": "Кибербезопасность"
+                },
+			    {
+                    "id": "31",
+                    "title": "Общее"
+                },
+			    {
+                    "id": "29",
+                    "title": "Сберу 179!"
+                },
+			    {
+                    "id": "30",
+                    "title": "Подача и получение документов в МФЦ"
+                },
+				{
+                    "id": "27",
+                    "title": "Сбер Конф"
+                },
+				{
+                    "id": "26",
+                    "title": "СБОЛ.про для СПП"
+                },
+				{
+                    "id": "28",
+                    "title": "Финансовый курьер"
+                },
+			    {
+                    "id": "23",
+                    "title": "НСЖ/ИСЖ"
+                },
+			    {
+                    "id": "22",
+                    "title": "Ура! Нам 9!"
+                },
+			    {
+                    "id": "21",
+                    "title": "9 мая"
+                },
+				{
+                    "id": "19",
+                    "title": "Обучение по пилотируемым продуктам"
+                },
+				{
+                    "id": "17",
+                    "title": "Скрипты для РПГ"
+                },			
+				{
+                    "id": "18",
+                    "title": "Инструкции на время РПГ"
+                },			
+				{
+                    "id": "14",
+                    "title": "#клиентскиеистории"
+                },		
+				{
+                    "id": "7",
+                    "title": "#получаемэмоции"
+                },
+                {
+                    "id": "2",
+                    "title": "Продукты и технология продаж"
+                },				
+                {
+                    "id": "15",
+                    "title": "Экосистема"
+                },
+				{
+                    "id": "13",
+                    "title": "Стандарты работы"
+                },
+                {
+                    "id": "1",
+                    "title": "Обучающие видеоролики"
+                },
+				{
+                    "id": "16",
+                    "title": "Геймификация 2.0"
+                },
+                {
+                    "id": "3",
+                    "title": "Работа в iServe"
+                },
+                {
+                    "id": "4",
+                    "title": "Работа с планшетом и МУС"
+                },
+                {
+                    "id": "5",
+                    "title": "Брокерский счет"
+                }
+
+            ],
+            "books": [
+                {
+                    "title": "Инструкция Touch ID",
+                    "cat_id": "4",
+                    "file": "Инструкция Touch ID.pdf",
+                    "shell_img": "Instrukciya Touch ID.png"
+                },
+
+                {
+                    "title": "Оффлайн-режим в iServe",
+                    "cat_id": "3",
+                    "file": "Оффлайн-режим в iServe.pdf",
+                    "shell_img": "Offlajn-rezhim v iServe.png",
+                    "horizontal_preview": true
+                },
+
+                {
+                    "title": "Памятка по работе с МУС",
+                    "cat_id": "4",
+                    "file": "Памятка по работе с МУС.pdf",
+                    "shell_img": "Pamyatka po rabote s MUS.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Памятка по учету продаж через iServe",
+                    "cat_id": "3",
+                    "file": "Памятка по учету продаж через iServe.pdf",
+                    "shell_img": "Pamyatka po uchetu prodazh cherez iServe.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Дебетовая карта МИР «Пенсионная»",
+                    "cat_id": "2",
+                    "file": "Дебетовая карта МИР «Пенсионная».pdf",
+                    "shell_img": "debet MIR.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Мой ДРУГ",
+                    "cat_id": "4",
+                    "file": "Мой ДРУГ.pdf"
+                },
+                {
+                    "title": "Памятка при сбое УС",
+                    "cat_id": "4",
+                    "file": "Памятка при сбое УС.pdf"
+                },
+
+                {
+                    "title": "Передача (смена «владельца») планшета",
+                    "cat_id": "4",
+                    "file": "Передача (смена «владельца») планшета.pdf"
+                },
+
+                {
+                    "title": "Клиентская история. Мечты сбываются",
+                    "cat_id": "1",
+                    "file": "Мечты сбываются.mp4",
+                    "shell_img": "HistoryDreams.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+
+                {
+                    "title": "Памятка подачи заявки в СБОЛ",
+                    "cat_id": "2",
+                    "file": "Памятка подачи заявки в СБОЛ.pdf"
+                },
+                {
+                    "title": "Инструкция по оформлению \"Справки для госслужащих\"",
+                    "cat_id": "2",
+                    "file": "Инструкция по оформлению \"Справки для госслужащих\".pdf"
+                },
+                {
+                    "title": "Клиентская история. Помогать в сложной ситуации",
+                    "cat_id": "1",
+                    "file": "Помогать в сложной ситуации.mp4",
+                    "shell_img": "HistoryPomogai.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+
+                {
+                    "title": "Защита близких +",
+                    "cat_id": "2",
+                    "file": "Защита близких +.pdf",
+                    "shell_img": "ProtectionNear.png",
+                    "horizontal_preview": true
+                },
+
+                {
+                    "title": "Работа c CSI. Отклонение: Несоблюдение стандартов",
+                    "cat_id": "1",
+                    "shell_img": "Nesobludenie.png",
+                    "file": "Несоблюдение стандартов отсутствие заинтересованности.mp4",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Открытие брокерского счета",
+                    "file": "Открытие брокерского счета.pdf",
+                    "leanLabs": [
+                                3, 183, 173
+                    ],
+                    "cat_id": "5"
+                },
+                {
+                    "title": "Скрипт по брокерскому счету",
+                    "file": "Скрипт по брокерскому счету.pdf",
+                    "leanLabs": [
+                            3, 183, 173
+                    ],
+                    "cat_id": "5"
+                },
+                {
+                    "title": "Частые вопросы по брокерскому счету",
+                    "file": "Частые вопросы по брокерскому счету.docx",
+                    "leanLabs": [
+                          3, 183, 173
+                    ],
+                    "cat_id": "5"
+                },
+                {
+                    "title": "Проведение индивидуального интервью в iServe",
+                    "file": "Памятка по проведению индивидуального интервью в iServe.pdf",
+                    "cat_id": "3"
+                },
+                {
+                    "title": "Работа с CSI. Отклонение: Навязывание продуктов",
+                    "cat_id": "1",
+                    "shell_img": "Navyazivanie.png",
+                    "file": "Навязывание продуктов.mp4",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Перевод пенсии через СБОЛ",
+                    "cat_id": "2",
+                    "file": "Перевод пенсии через СБОЛ.pdf",
+                    "shell_img": "PensionSbol.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Заявление на перевод зарплаты",
+                    "file": "Памятка - Заявление на перевод зарплаты.pdf",
+                    "cat_id": "2",
+                    "shell_img": "PerevodZP.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Клиентская история. Внимание к каждому",
+                    "cat_id": "1",
+                    "file": "Клиентская история. Внимание к каждому.mp4",
+                    "shell_img": "HistoryAttention.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Памятка по регистрации Код Консультанта",
+                    "cat_id": "2",
+                    "file": "Памятка по регистрации Код Консультанта.pdf"
+                },
+                {
+                    "title": "iServe для СПП",
+                    "cat_id": "3",
+                    "file": "iServe для СПП.pdf"
+                },
+                {
+                    "title": "iServe для НС ПРП",
+                    "cat_id": "3",
+                    "file": "iServe для НС ПРП.pdf"
+                },
+                {
+                    "title": "Планирование для НС ПРП",
+                    "cat_id": "3",
+                    "file": "НС_Планирование.pdf"
+                },
+                {
+                    "title": "Планирование для СПП",
+                    "cat_id": "3",
+                    "file": "СПП_Планирование.pdf"
+                },
+                {
+                    "title": "Работа с CSI. Отклонение: Самостоятельный опрос",
+                    "cat_id": "1",
+                    "file": "Отклонение CSI Самостоятельный опрос.mp4",
+                    "shell_img": "Opros.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Критерии учета продуктов",
+                    "cat_id": "2",
+                    "file": "Критерии_учета_продуктов.xlsx"
+                },
+                {
+                    "title": "Работа с CSI. Отклонение: Некорректная консультация",
+                    "cat_id": "1",
+                    "file": "Некорректная консультация.mp4",
+                    "shell_img": "IncorrectConsult.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Защищенный заемщик. Презентация",
+                    "cat_id": "2",
+                    "leanLabs": [6, 8, 11],
+                    "file": "Защищенный заемщик Презентация.pdf"
+                },
+                {
+                    "title": "Залоговое страхование. Презентация",
+                    "cat_id": "2",
+                    "leanLabs": [6, 8, 11],
+                    "file": "Залоговое страхование Презентация.pdf"
+                },
+                {
+                    "title": "Залоговое страхование. Как оформлять",
+                    "cat_id": "2",
+                    "leanLabs": [6, 8, 11],
+                    "file": "Залоговое страхование Оформление.pdf"
+                },
+                {
+                    "title": "ДомКлик ВСП",
+                    "cat_id": "2",
+                    "file": "ДомКлик ВСП.pdf"
+                },
+                {
+                    "title": "Настройка и подключение VPN",
+                    "cat_id": "3",
+                    "file": "Настройка и подключение VPN.pdf"
+                },
+                {
+                  "title": "Сберкарта для Н.Новгорода, Перми, Иркутска",
+                  "cat_id": "2",
+                  "file": "Сберкарта.pdf"
+                },
+				{
+				"title": "Я работала СПП. Марина Брыжахина",
+                    "cat_id": "7",
+                    "file": "GreetBryzhahina.mp4",
+                    "shell_img": "GreetBryzhahina.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Я работал СПП. Антон Пучков",
+                    "cat_id": "7",
+                    "file": "GreetPuchkov.mp4",
+                    "shell_img": "GreetPuchkov.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Банк на работе",
+                    "cat_id": "2",
+                    "file": "Bank_at_work.mp4",
+                    "shell_img": "BankatWork.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Сервис сурдоперевода в Сбербанке",
+                    "cat_id": "2",
+                    "file": "Service_0609.mp4",
+                    "shell_img": "Service_0609.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+                  "title": "Памятка сервиса «Сурдоперевод»",
+                  "cat_id": "2",
+                  "file": "Сбербанк_сурдоперевод.pdf"
+                },
+                {
+                    "title": "Инструкция по применению Delivery Club",
+                    "cat_id": "15",
+                    "leanLabs": [9, 10],
+                    "file": "Delivery_Club.pdf"
+                },
+				{
+                  "title": "Инструкция по сервису Продажи и KPI",
+                  "cat_id": "2",
+                  "file": "Инструкция по сервису Продажи и KPI.pdf"
+                },
+				{
+                  "title": "Сервис по продажам и KPI",
+                  "cat_id": "2",
+                  "file": "Сервис по продажам и KPI.pdf"
+                },
+				{
+				"title": "Алгоритм работы с возражениями",
+                    "cat_id": "12",
+                    "file": "Алгоритм_работы_с_возражениями.mp4",
+                    "shell_img": "Сall_standards.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Виды звонков юридическим лицам",
+                    "cat_id": "12",
+                    "file": "Виды_звонков_юридическим_лицам.mp4",
+                    "shell_img": "Сall_standards.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Стандарт звонка приглашение на МП",
+                    "cat_id": "12",
+                    "file": "Стандарт звонка_приглашение на МП.mp4",
+                    "shell_img": "Сall_standards.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Стандарт звонков физическим лицам",
+                    "cat_id": "12",
+                    "file": "Стандарт_звонков_физическим_лицам.mp4",
+                    "shell_img": "Call__2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+				"title": "Стандарт звонков",
+                    "cat_id": "12",
+                    "file": "Стандарт_звонков.mp4",
+                    "shell_img": "Сall_standards.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+				},
+				{
+                    "title": "Звонки ФЗ",
+                    "cat_id": "13",
+                    "file": "Звонки ФЗ.pdf",
+                    "shell_img": "calls_FZ.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Звонки ЮЛ",
+                    "cat_id": "13",
+                    "file": "Звонки ЮЛ.pdf",
+                    "shell_img": "calls_UL.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Cкрипты презентаций",
+                    "cat_id": "13",
+                    "file": "Cкрипты презентаций.pdf",
+                    "shell_img": "company_presentation.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт мини-презентации",
+                    "cat_id": "13",
+                    "file": "Скрипт мини-презентации.pdf",
+                    "shell_img": "script_mini_Prez.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Обязательное обучение СПП",
+                    "cat_id": "13",
+                    "file": "Обязательное обучение СПП.pdf",
+                    "shell_img": "compulsory_education.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Способы оповещения ВНД",
+                    "cat_id": "13",
+                    "file": "Способы оповещения ВНД.pdf",
+                    "shell_img": "sposoby_opoveshenia.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Книга Cтандартов СПП",
+                    "cat_id": "13",
+                    "file": "Книга Cтандартов СПП.pdf",
+                    "shell_img": "book_of_standards.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Как открыть брокерский счет",
+                    "cat_id": "15",
+                    "file": "Как открыть брокерский счет.pdf"
+
+                },
+                {
+                    "title": "Инструкция по продукту Рамблер/касса",
+                    "cat_id": "15",
+                    "leanLabs": [3, 5, 6, 7, 9, 11, 19, 21, 22, 173, 183],
+                    "file": "Rambler_kassa.pdf",
+					"shell_img": "Rambler.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Презентация Автокредит от Сетелем Банка",
+                    "cat_id": "2",
+                    "file": "Презентация Автокредит от Сетелем Банка.pdf",
+                    "shell_img": "Avtocredit_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Часто задаваемые вопросы Автокредит от Сетелем Банка",
+                    "cat_id": "2",
+                    "file": "Часто задаваемые вопросы Автокредит от Сетелем Банка.pdf",
+                    "shell_img": "question_avtocredit.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Преимущества дебетовой карты Platinum",
+                    "cat_id": "2",
+                    "file": "Преимущества дебетовой карты Platinum.pdf",
+                    "shell_img": "Visa_Platinum_prez.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 6",
+                    "cat_id": "14",
+                    "file": "Series_6.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 5",
+                    "cat_id": "14",
+                    "file": "Series_5.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 4",
+                    "cat_id": "14",
+                    "file": "Series_4.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 3",
+                    "cat_id": "14",
+                    "file": "Series_3.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 2",
+                    "cat_id": "14",
+                    "file": "Series_2.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Серия 1",
+                    "cat_id": "14",
+                    "file": "Series_1.mp4",
+                    "shell_img": "KLSeries.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Работа с CSI. Последствия навязывания",
+                    "cat_id": "1",
+                    "file": "Работа с CSI. Последствия навязывания.mp4",
+                    "shell_img": "Navyaz.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Проверка настроек для входа в Игру",
+                    "cat_id": "16",
+                    "file": "Проверка настроек для входа в Игру.pdf",
+                    "shell_img": "Game_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Об игре 2.0",
+                    "cat_id": "16",
+                    "file": "Об Игре 2.0.pdf",
+                    "shell_img": "Game.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Кейсы по продукту Здоровье и Долголетие",
+                    "cat_id": "15",
+                    "file": "Кейсы по продукту Здоровье и Долголетие.pdf",
+                    "shell_img": "Кейс_Здоровье_и_Долг.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Книга стандартов начальника сектора",
+                    "cat_id": "13",
+                    "file": "Книга стандартов начальника сектора.pdf",
+					"roleList": [
+                      "RGSPP"
+                    ],
+                    "shell_img": "Книга_НС.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Триггерный звонок",
+                    "cat_id": "17",
+                    "file": "Скрипт Триггерный звонок.pdf",
+                    "shell_img": "Script_trigger.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Активация карты",
+                    "cat_id": "17",
+                    "file": "Скрипт Активация карты.pdf",
+                    "shell_img": "Script_activation.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Биометрия",
+                    "cat_id": "17",
+                    "file": "Скрипт Биометрия.pdf",
+                    "shell_img": "Script_bilimetry.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Комплексный звонок",
+                    "cat_id": "17",
+                    "file": "Скрипт Комплексный звонок.pdf",
+                    "shell_img": "Script_complex.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Как звонить клиентам с мобильного",
+                    "cat_id": "18",
+                    "file": "Как звонить клиентам с мобильного.pdf",
+                    "shell_img": "Как_звонить_клиентам.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Активация карты в МП",
+                    "cat_id": "18",
+                    "file": "Активация карты в МП.pdf",
+                    "shell_img": "Активация_карты_МП.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Инструкция по работе в iServe на время РПГ",
+                    "cat_id": "18",
+                    "file": "Инструкция по работе в iServe на время РПГ.pdf",
+                    "shell_img": "RPG_iServe.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Памятка по ассистивным технологиям",
+                    "cat_id": "2",
+                    "file": "Памятка по ассистивным технологиям.pdf",
+                    "shell_img": "assistive_technology_2020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Памятка по сервису «Звонок сурдопереводчику»",
+                    "cat_id": "2",
+                    "file": "Памятка по сервису Звонок сурдопереводчику.pdf",
+                    "shell_img": "sign_language_translation_2020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "КПФР. Оформление социальной карты мир",
+                    "cat_id": "17",
+                    "file": "КПФР. Оформление социальной карты мир.pdf",
+                    "shell_img": "social_card_KPFR.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Страховая программа #сбереги себя",
+                    "cat_id": "15",
+                    "file": "Страховая программа Сбереги себя.pdf",
+                    "shell_img": "070520201.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Памятка по Трудовой книжке",
+                    "cat_id": "2",
+                    "file": "Памятка по Трудовой книжке.pdf",
+                    "shell_img": "07052020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Беру.ру",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "Беру_ру.pdf",
+                    "shell_img": "Беру_ру1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Дебетовая бизнес-карта",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "Дебетовая_бизнес_карта.pdf",
+                    "shell_img": "Дебетовая_бизнес_карта.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Сберкарта",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "Сберкарта_1.pdf",
+                    "shell_img": "СберКарта_просто.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Сберкарта Travel",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "Сберкарта_Travel.pdf",
+                    "shell_img": "Сберкарта_Тревел.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "СберМаркет",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "СберМаркет_продуктовая_презентация.pdf",
+                    "shell_img": "СберМаркет_продуктовая_прз.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "СитиМобил",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "СитиМобил_продуктовая_презентация.pdf",
+                    "shell_img": "СитиМобил_пр_през.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Страховая программа #сбереги себя",
+                    "cat_id": "19",
+					"TBList": ["СРБ"],
+                    "file": "Страховая программа Сбереги себя.pdf",
+                    "shell_img": "070520201.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Обучение Работа.ру",
+                    "cat_id": "15",
+                    "file": "Обучение_Работа_ру.pdf",
+                    "shell_img": "Работа_Ру.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "КК+ОККО",
+                    "cat_id": "17",
+                    "file": "КК_ОККО.pdf",
+                    "shell_img": "OkkoиKK.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт ПК+ОККО",
+                    "cat_id": "17",
+                    "file": "Скрипт_ПК_ОККО.pdf",
+                    "shell_img": "СкриптПКиОККО.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Обучающие материалы Okko",
+                    "cat_id": "15",
+                    "file": "okko_материалы.pdf",
+                    "shell_img": "Окко1205.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Альбом детских рисунков",
+                    "cat_id": "21",
+                    "file": "Альбом_детских_рисунков.pdf",
+                    "shell_img": "19052020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Альбом памяти 9 Мая",
+                    "cat_id": "21",
+                    "file": "Альбом_памяти_9_Мая.pdf",
+                    "shell_img": "19052020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Оформление социальной карты",
+                    "cat_id": "17",
+                    "file": "Скрипт_Оформление_социальной_карты.pdf",
+                    "shell_img": "27052020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт Трудности с доступом к пенсии",
+                    "cat_id": "17",
+                    "file": "Скрипт_Трудности_с_доступом_к_пенсии.pdf",
+                    "shell_img": "27052020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Беру: продуктовая презентация",
+                    "cat_id": "15",
+					"TBList": ["СЗБ"],
+                    "file": "Беру_продуктовая_презентация.pdf",
+                    "shell_img": "29052020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Беру: продуктовая презентация",
+                    "cat_id": "15",
+					"TBList": ["ПВБ"],
+                    "file": "Беру_продуктовая_презентация.pdf",
+                    "shell_img": "29052020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Беру: оформление заказа",
+                    "cat_id": "15",
+					"TBList": ["СЗБ"],
+                    "file": "Беру_туториал_оформление_заказа.mp4",
+                    "shell_img": "29052020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Беру: оформление заказа",
+                    "cat_id": "15",
+					"TBList": ["ПВБ"],
+                    "file": "Беру_туториал_оформление_заказа.mp4",
+                    "shell_img": "29052020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Памятка: Денежные переводы",
+                    "cat_id": "2",
+                    "file": "Памятка_Денежные_переводы.pdf",
+                    "shell_img": "03062020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Очная встреча",
+                    "cat_id": "1",
+                    "file": "Очная_встреча.mp4",
+                    "shell_img": "03062020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Видеопоздравление от Радислава Гандапаса",
+                    "cat_id": "22",
+                    "file": "Радислав_Гандапас_Сбербанк.mp4",
+                    "shell_img": "09062020_1.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "ОСАГО обучение",
+                    "cat_id": "15",
+					"TBList": ["СРБ"],
+                    "file": "ОСАГО_обучение.pdf",
+                    "shell_img": "10062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "ОСАГО обучение",
+                    "cat_id": "15",
+					"TBList": ["СиБ"],
+                    "file": "ОСАГО_обучение.pdf",
+                    "shell_img": "10062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "ОСАГО обучение",
+                    "cat_id": "15",
+					"TBList": ["МБ"],
+                    "file": "ОСАГО_обучение.pdf",
+                    "shell_img": "10062020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Поздравление от команды ЦСДВ",
+                    "cat_id": "22",
+                    "file": "Поздравление_от_команды_ЦСДВ.mp4",
+                    "shell_img": "11062020_1.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Поздравление от ПЦП ЦУЗ",
+                    "cat_id": "22",
+                    "file": "Поздравление_от_ПЦП_ЦУЗ.mp4",
+                    "shell_img": "11062020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Поздравление от ЕСЗК",
+                    "cat_id": "22",
+                    "file": "Поздравление_от_ЕСЗК.mp4",
+                    "shell_img": "12062020_1.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Поздравление от УЗП и ПППП",
+                    "cat_id": "22",
+                    "file": "Поздравление_УЗП_ПППП.mp4",
+                    "shell_img": "14062020_1.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Поздравление от команды УВД",
+                    "cat_id": "22",
+                    "file": "Поздравление_от_команды_УВД.mp4",
+                    "shell_img": "14062020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Сборник стихов ко дню рождения канала",
+                    "cat_id": "22",
+                    "file": "Сборник стихов ко дню рождения канала.pdf",
+                    "shell_img": "18062020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["МБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ЮЗБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ЦЧБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Детская профориентация",
+                    "cat_id": "15",
+					"TBList": ["МБ"],
+                    "file": "Детская_профориентация_обучение.pdf",
+                    "shell_img": "29062020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Детская профориентация",
+                    "cat_id": "15",
+					"TBList": ["ЦЧБ"],
+                    "file": "Детская_профориентация_обучение.pdf",
+                    "shell_img": "29062020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Детская профориентация",
+                    "cat_id": "15",
+					"TBList": ["ЮЗБ"],
+                    "file": "Детская_профориентация_обучение.pdf",
+                    "shell_img": "29062020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ББ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ВВБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ДВБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["ПВБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["СЗБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["СиБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["СРБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Изменения ИПП с июля 2020",
+                    "cat_id": "2",
+					"TBList": ["УБ"],
+                    "file": "Изменения_ИПП_с_июля_2020.pdf",
+                    "shell_img": "29062020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Оценка здоровья",
+                    "cat_id": "15",
+					"TBList": ["ЮЗБ"],
+                    "file": "Оценка_здоровья_обучение.pdf",
+                    "shell_img": "29062020_3.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Оценка здоровья",
+                    "cat_id": "15",
+					"TBList": ["МБ"],
+                    "file": "Оценка_здоровья_обучение.pdf",
+                    "shell_img": "29062020_3.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Оценка здоровья",
+                    "cat_id": "15",
+					"TBList": ["ЦЧБ"],
+                    "file": "Оценка_здоровья_обучение.pdf",
+                    "shell_img": "29062020_3.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Башкирское ГОСБ, УБ",
+                    "cat_id": "22",
+                    "file": "УБ Башкирское ГОСБ.mp4",
+                    "shell_img": "06072020.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Липецкое ГОСБ, ЦЧБ",
+                    "cat_id": "22",
+                    "file": "ЦЧБ Липецкое ГОСБ.mp4",
+                    "shell_img": "06072020.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Костромское ГОСБ, СРБ",
+                    "cat_id": "22",
+                    "file": "СРБ Костромское ГОСБ.mp4",
+                    "shell_img": "06072020.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Краснодарское ГОСБ, ЮЗБ",
+                    "cat_id": "22",
+                    "file": "ЮЗБ Краснодарское ГОСБ.mp4",
+                    "shell_img": "06072020.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Как работает ИСЖ",
+                    "cat_id": "23",
+                    "file": "Как работает ИСЖ.mp4",
+                    "shell_img": "0807_ИСЖ.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "Как работает НСЖ",
+                    "cat_id": "23",
+                    "file": "Как работает НСЖ.mp4",
+                    "shell_img": "0807_НСЖ.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Памятка удаленного оформления ИСЖ НСЖ",
+                    "cat_id": "23",
+                    "file": "Памятка удаленного оформления ИСЖ НСЖ.pdf",
+                    "shell_img": "08072020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Накопительное страхование жизни",
+                    "cat_id": "23",
+                    "file": "Накопительное страхование жизни.pdf",
+                    "shell_img": "07072020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Инвестиционное страхование жизни",
+                    "cat_id": "23",
+                    "file": "Инвестиционное страхование жизни.pdf",
+                    "shell_img": "07072020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Памятка: Кибербезопасность",
+                    "cat_id": "25",
+                    "file": "Памятка_Кибербезопасность.pdf",
+                    "shell_img": "27072020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "Питомец под защитой - оформление iOS",
+                    "cat_id": "15",
+                    "file": "Питомец_под_защитой_оформление_iOS.mp4",
+                    "shell_img": "26082020_2.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+                {
+                    "title": "ОККО СберБокс",
+                    "cat_id": "15",
+                    "file": "ОККО_СберБокс.mp4",
+                    "shell_img": "26082020_1.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Шаблон в Сбердруге",
+                    "cat_id": "26",
+                    "file": "Шаблон_в_Сбердруге.pdf",
+                    "shell_img": "Сбердруг.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "СБОЛ.про",
+                    "cat_id": "26",
+                    "file": "СБОЛ_про_СПП.pdf",
+                    "shell_img": "СБОЛ.про_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ЮЗБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ЮЗБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ЦЧБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ЦЧБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица УБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица УБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица СРБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица СРБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица СИБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица СИБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица СЗБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица СЗБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ПВБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ПВБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица МБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица МБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ДВБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ДВБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ВВБ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ВВБ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Ассортиментная матрица ББ",
+                    "cat_id": "27",
+                    "file": "Ассортиментная матрица ББ.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Релиз СберКонф",
+                    "cat_id": "27",
+                    "file": "Релиз СберКонф.pdf",
+                    "shell_img": "Сберконф_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Фарм-Страхование",
+                    "cat_id": "15",
+                    "file": "ФАРМ_СТРАХОВАНИЕ.pdf",
+                    "shell_img": "Фарм_страхование.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Список тем Гид по финансам",
+                    "cat_id": "13",
+                    "file": "Список тем_Гид по финансам.pdf",
+                    "shell_img": "02102020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Памятка для СПП. Доставка документов, ценностей клиентам СБП",
+                    "cat_id": "23",
+                    "file": "Доставка документов, ценностей клиентам СБП.pdf",
+                    "shell_img": "14102020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Финансовый курьер",
+                    "cat_id": "28",
+                    "file": "Финансовый курьер.pdf",
+                    "shell_img": "14102020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Поздравление от Алексея Котлячкова",
+                    "cat_id": "29",
+                    "file": "Поздравление от Алексея Котлячкова.mp4",
+                    "shell_img": "12112020.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Регистрация ДС в МФЦ",
+                    "cat_id": "30",
+                    "file": "Регистрация ДС в МФЦ.pdf",
+                    "shell_img": "11112020.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Поздравление от Сергея Мальцева",
+                    "cat_id": "29",
+                    "file": "Поздравление от Сергея Мальцева.pdf",
+                    "shell_img": "2021211_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Поздравление от команды УВД",
+                    "cat_id": "29",
+                    "file": "Поздравление от команды УВД.mp4",
+                    "shell_img": "20201211.png",
+                    "horizontal_preview": true,
+                    "isVideo": true
+                },
+				{
+                    "title": "Макет листовок 1",
+                    "cat_id": "25",
+                    "file": "Макет листовок 1.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Макет листовок 2",
+                    "cat_id": "25",
+                    "file": "Макет листовок 2.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Фразы для передачи памяток Клиентам",
+                    "cat_id": "25",
+                    "file": "Фразы для передачи памяток Клиентам.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт звонка КЛ",
+                    "cat_id": "25",
+                    "file": "Скрипт звонка КЛ.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Фразы для передачи листовок-памяток",
+                    "cat_id": "25",
+                    "file": "Фразы для передачи листовок-памяток.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Скрипт звонка КЛ",
+                    "cat_id": "25",
+                    "file": "Скрипт звонка КЛ.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "СберТренер (наставник)",
+                    "cat_id": "31",
+                    "file": "СберТренер (наставник).pdf",
+                    "shell_img": "23112020_2.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Персональные данные",
+                    "cat_id": "32",
+                    "file": "Приложение 1.Персональные данные.pdf",
+                    "shell_img": "24112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Очистка корзины",
+                    "cat_id": "32",
+                    "file": "Приложение 2.Очистка корзины.pdf",
+                    "shell_img": "24112020_1.png",
+                    "horizontal_preview": true
+                },
+				{
+                    "title": "Категории персональных данных",
+                    "cat_id": "32",
+                    "file": "Приложение 3. Категории персональных данных.pdf",
+                    "shell_img": "24112020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "15 правил Кибербезопасности",
+                    "cat_id": "32",
+                    "file": "Приложение 4.15 правил Кибербезопасности.pdf",
+                    "shell_img": "24112020_1.png",
+                    "horizontal_preview": true
+                },
+                {
+                    "title": "15 правил Кибербезопасности",
+                    "cat_id": "25",
+                    "file": "15 правил Кибербезопасности.pdf",
+                    "shell_img": "23112020_1.png",
+                    "horizontal_preview": true
+                }
+
+				
+				
+				
+            ]
+        }
+    }
+}
